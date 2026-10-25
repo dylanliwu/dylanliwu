@@ -2,7 +2,7 @@
 
 Computer Engineering student at McMaster University. I like building things people actually use, from full-stack apps to hardware.
 
-Previously a Full-Stack Developer Intern at Revvity and a Software Engineer Intern at Amicare.
+Previously a Full-Stack Developer Intern at <a href="https://www.revvity.com"><img src="assets/revvity.svg" alt="Revvity" height="20" align="top"></a> and a Software Engineer Intern at <a href="https://www.amicare.io"><img src="assets/amicare.svg" alt="Amicare" height="20" align="top"></a>.
 
 ### Projects
 
