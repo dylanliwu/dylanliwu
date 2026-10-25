@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Dylan
 
-<!--
-**dylanliwu/dylanliwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at McMaster University. I like building things people actually use, from full-stack apps to hardware.
 
-Here are some ideas to get you started:
+Previously a Full-Stack Developer Intern at Revvity and a Software Engineer Intern at Amicare.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- [**Make the Cut**](https://github.com/dylanliwu/make-the-cut): predicts McMaster Engineering stream cutoffs, used by 500+ students a year
+- [**DisasterChat**](https://github.com/dylanliwu/disaster-chat): offline Bluetooth mesh messaging, 1st place at McMaster's Engineering Competition
+- [**RFID Record Player**](https://github.com/dylanliwu/rfid-record-player): tap an RFID "vinyl" to play a song on Spotify, built on an ESP32
+
+### Contact
+
+[LinkedIn](https://linkedin.com/in/dylanliwu) · [Website](https://dylanli.ca) · li3419@mcmaster.ca
