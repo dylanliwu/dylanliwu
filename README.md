@@ -1,4 +1,4 @@
-## Hi, I'm Dylan
+## 🧑‍🍳 Hi, I'm Dylan
  
 Computer Engineering student at McMaster University. I like building things people actually use, from full-stack apps to hardware.
  Previously a Full-Stack Developer Intern at Revvity and a Software Engineer Intern at Amicare.
