@@ -5,7 +5,7 @@ Computer Engineering student at McMaster University. I like building things peop
  
 ### Projects
  
-- [**Make the Cut**](https://github.com/dylanliwu/make-the-cut): predicts McMaster Engineering stream cutoffs, 1000+ users
+- [**MakeTheCut**](https://github.com/dylanliwu/make-the-cut): predicts McMaster Engineering stream cutoffs, 1000+ users
 - [**DisasterChat**](https://github.com/dylanliwu/disaster-chat): offline Bluetooth mesh messaging, 1st place at McMaster's Engineering Competition
 - [**RFID Record Player**](https://github.com/dylanliwu/rfid-record-player): tap an RFID "vinyl" to play a song on Spotify, built on an ESP32
 
