@@ -1,6 +1,6 @@
 ## 🧑‍🍳 Hi, I'm Dylan
  
-Computer Engineering student at McMaster University.
+Computer Engineering student at McMaster University.\
 Previously a Full-Stack Developer Intern at Revvity and a Software Engineer Intern at Amicare.
  
 ### Projects
